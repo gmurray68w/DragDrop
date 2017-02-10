@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DragDrop</string>
+    <string name="title_activity_completed_schedule">CompletedSchedule</string>
+</resources>
